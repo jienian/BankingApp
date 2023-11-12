@@ -1,4 +1,4 @@
-package com.com.banking.Adapter;
+package com.banking.Adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -9,8 +9,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.banking.Domain.CryptoWallet;
 import com.bumptech.glide.Glide;
-import com.com.banking.Domain.CryptoWallet;
 import com.example.moden1.R;
 
 import java.text.DecimalFormat;

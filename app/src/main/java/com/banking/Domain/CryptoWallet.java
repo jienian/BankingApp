@@ -1,4 +1,4 @@
-package com.com.banking.Domain;
+package com.banking.Domain;
 
 public class CryptoWallet {
     private String cryptoSymbol;

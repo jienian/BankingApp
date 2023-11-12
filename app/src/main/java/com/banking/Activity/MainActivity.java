@@ -1,4 +1,4 @@
-package com.com.banking.Activity;
+package com.banking.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
@@ -6,8 +6,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 
-import com.com.banking.Adapter.CryptoWalletAdapter;
-import com.com.banking.Domain.CryptoWallet;
+import com.banking.Adapter.CryptoWalletAdapter;
+import com.banking.Domain.CryptoWallet;
 import com.example.moden1.R;
 
 import java.util.ArrayList;
